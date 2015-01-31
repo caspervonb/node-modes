@@ -1,0 +1,14 @@
+{
+  "author": "Casper Beyer <caspervonb@qup.io>",
+  "name": "modes",
+  "description": "",
+  "keywords": [
+    "modes"
+  ],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/caspervonb/node-modes.git"
+  },
+  "main": "./index.js"
+}
