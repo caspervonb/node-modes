@@ -2,9 +2,14 @@
   "author": "Casper Beyer <caspervonb@qup.io>",
   "name": "modes",
   "description": "",
+  "files": [
+    "index.js"
+  ],
+
   "keywords": [
     "modes"
   ],
+
   "version": "0.0.1",
   "repository": {
     "type": "git",
