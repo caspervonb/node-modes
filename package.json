@@ -18,6 +18,10 @@
     "type": "git",
     "url": "git://github.com/caspervonb/node-modes.git"
   },
+  "bugs": {
+    "url": "https://github.com/caspervonb/node-modes/issues"
+  },
+
   "homepage": "https://github.com/caspervonb/node-modes",
   "license": "MIT",
 
