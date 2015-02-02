@@ -10,6 +10,10 @@
     "modes"
   ],
 
+  "scripts": {
+    "test": "node test.js"
+  },
+
   "version": "0.0.1",
   "repository": {
     "type": "git",
