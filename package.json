@@ -4,15 +4,12 @@
   "files": [
     "index.js"
   ],
-
   "keywords": [
     "modes"
   ],
-
   "scripts": {
     "test": "node test.js"
   },
-
   "version": "0.0.1",
   "repository": {
     "type": "git",
@@ -21,10 +18,8 @@
   "bugs": {
     "url": "https://github.com/caspervonb/node-modes/issues"
   },
-
   "homepage": "https://github.com/caspervonb/node-modes",
   "license": "MIT",
-
   "main": "./index.js",
   "devDependencies": {
     "spy": "^0.1.3",
