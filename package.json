@@ -1,7 +1,6 @@
 {
   "author": "Casper Beyer <caspervonb@qup.io>",
   "name": "modes",
-  "description": "",
   "files": [
     "index.js"
   ],
