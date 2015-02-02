@@ -18,6 +18,7 @@
     "type": "git",
     "url": "git://github.com/caspervonb/node-modes.git"
   },
+  "homepage": "https://github.com/caspervonb/node-modes",
   "license": "MIT",
 
   "main": "./index.js",
