@@ -18,6 +18,8 @@
     "type": "git",
     "url": "git://github.com/caspervonb/node-modes.git"
   },
+  "license": "MIT",
+
   "main": "./index.js",
   "devDependencies": {
     "spy": "^0.1.3",
